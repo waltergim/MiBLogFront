@@ -1,0 +1,10 @@
+@import '../../../../scss/index.scss';
+
+
+.register-from{
+    &__error{
+        color: $error;
+        text-align: center;
+    }
+
+}
